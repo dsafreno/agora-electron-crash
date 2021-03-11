@@ -1,6 +1,6 @@
 {
   "name": "agora-electron-crash",
-  "productName": "Agora Electron crash",
+  "productName": "Crash",
   "version": "0.0.1",
   "description": "Agora electron crash",
   "main": "main.js",
